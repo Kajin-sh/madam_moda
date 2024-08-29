@@ -1,2 +1,2 @@
 # madam_moda
-![dress]("E:\kras.png")
+![dress]("../E:\kras.png")
